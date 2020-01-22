@@ -1,0 +1,21 @@
+
+public class PrintNumberInWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		int number = 5;
+		
+		if(number < 2){
+			System.out.println("ONE");
+		}else if(number <= 2){
+			System.out.println("TWO");
+	}else{
+		System.out.println("NINE");
+		}
+
+	}
+
+}
