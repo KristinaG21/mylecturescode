@@ -1,0 +1,25 @@
+package lv.kristina;
+
+public class LearnMethodsWithParams {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+      // cast 
+
+		int result = getArea(30.2);
+		System.out.println("Ares: " +result);
+		
+	}
+
+	
+	public static int getArea(double radius){
+	
+	  double result = Math.PI * (radius * radius);
+	  return (int) result;
+	  
+	}
+	
+	}
+	

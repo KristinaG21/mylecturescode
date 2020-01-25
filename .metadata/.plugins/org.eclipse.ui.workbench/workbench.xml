@@ -31,97 +31,17 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BooleanTasks.java" partName="BooleanTasks.java" path="/home/student/workspace/lecture 3/src/BooleanTasks.java" title="BooleanTasks.java" tooltip="lecture 3/src/BooleanTasks.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/BooleanTasks.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="260" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Box.java" partName="Box.java" path="/home/student/workspace/lecture6/src/lv/kristina/learnjavaclass/Box.java" title="Box.java" tooltip="lecture6/src/lv/kristina/learnjavaclass/Box.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture6/src/lv/kristina/learnjavaclass/Box.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="180" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IfElseTask.java" partName="IfElseTask.java" path="/home/student/workspace/lecture 3/src/IfElseTask.java" title="IfElseTask.java" tooltip="lecture 3/src/IfElseTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/IfElseTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="148" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IfElseIf.java" partName="IfElseIf.java" path="/home/student/workspace/lecture 3/src/IfElseIf.java" title="IfElseIf.java" tooltip="lecture 3/src/IfElseIf.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/IfElseIf.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="6" selectionOffset="241" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintNumberInWorld.java" partName="PrintNumberInWorld.java" path="/home/student/workspace/lecture 3/src/PrintNumberInWorld.java" title="PrintNumberInWorld.java" tooltip="lecture 3/src/PrintNumberInWorld.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/PrintNumberInWorld.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="123" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SwitchTask.java" partName="SwitchTask.java" path="/home/student/workspace/lecture 3/src/SwitchTask.java" title="SwitchTask.java" tooltip="lecture 3/src/SwitchTask.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/SwitchTask.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="313" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculator.java" partName="Calculator.java" path="/home/student/workspace/lecture 3/src/Calculator.java" title="Calculator.java" tooltip="lecture 3/src/Calculator.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/Calculator.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="120" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IfElseAndTernaryOperator.java" partName="IfElseAndTernaryOperator.java" path="/home/student/workspace/lecture 3/src/IfElseAndTernaryOperator.java" title="IfElseAndTernaryOperator.java" tooltip="lecture 3/src/IfElseAndTernaryOperator.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/IfElseAndTernaryOperator.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="649" selectionTopPixel="83"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestIfEsleAndBlocks.java" partName="TestIfEsleAndBlocks.java" path="/home/student/workspace/lecture 3/src/TestIfEsleAndBlocks.java" title="TestIfEsleAndBlocks.java" tooltip="lecture 3/src/TestIfEsleAndBlocks.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/TestIfEsleAndBlocks.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="525" selectionTopPixel="173"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForLoops.java" partName="ForLoops.java" path="/home/student/workspace/lecture 3/src/ForLoops.java" title="ForLoops.java" tooltip="lecture 3/src/ForLoops.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/ForLoops.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="443" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WhileLoop.java" partName="WhileLoop.java" path="/home/student/workspace/lecture 3/src/WhileLoop.java" title="WhileLoop.java" tooltip="lecture 3/src/WhileLoop.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/WhileLoop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="128" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForLoopIfElseBlock.java" partName="ForLoopIfElseBlock.java" path="/home/student/workspace/lecture 3/src/ForLoopIfElseBlock.java" title="ForLoopIfElseBlock.java" tooltip="lecture 3/src/ForLoopIfElseBlock.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/ForLoopIfElseBlock.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="432" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Arraysprimitive.java" partName="Arraysprimitive.java" path="/home/student/workspace/lecture 3/src/Arraysprimitive.java" title="Arraysprimitive.java" tooltip="lecture 3/src/Arraysprimitive.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture 3/src/Arraysprimitive.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1478" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysRepeat.java" partName="ArraysRepeat.java" path="/home/student/workspace/lecture4/src/ArraysRepeat.java" title="ArraysRepeat.java" tooltip="lecture4/src/ArraysRepeat.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture4/src/ArraysRepeat.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="309" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysInitialization.java" partName="ArraysInitialization.java" path="/home/student/workspace/lecture4/src/ArraysInitialization.java" title="ArraysInitialization.java" tooltip="lecture4/src/ArraysInitialization.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture4/src/ArraysInitialization.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="402" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysAndLoop.java" partName="ArraysAndLoop.java" path="/home/student/workspace/lecture4/src/ArraysAndLoop.java" title="ArraysAndLoop.java" tooltip="lecture4/src/ArraysAndLoop.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture4/src/ArraysAndLoop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="79" selectionOffset="237" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysSumForLoop.java" partName="ArraysSumForLoop.java" path="/home/student/workspace/lecture4/src/ArraysSumForLoop.java" title="ArraysSumForLoop.java" tooltip="lecture4/src/ArraysSumForLoop.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture4/src/ArraysSumForLoop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="27" selectionOffset="104" selectionTopPixel="58"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForEach.java" partName="ForEach.java" path="/home/student/workspace/lecture4/src/ForEach.java" title="ForEach.java" tooltip="lecture4/src/ForEach.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture4/src/ForEach.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="95" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FolLoopAndIfElseBlock.java" partName="FolLoopAndIfElseBlock.java" path="/home/student/workspace/lecture4/src/FolLoopAndIfElseBlock.java" title="FolLoopAndIfElseBlock.java" tooltip="lecture4/src/FolLoopAndIfElseBlock.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture4/src/FolLoopAndIfElseBlock.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="415" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestJavaProgram.java" partName="TestJavaProgram.java" path="/home/student/workspace/lecture6/src/lv/kristina/learnjavaclass/TestJavaProgram.java" title="TestJavaProgram.java" tooltip="lecture6/src/lv/kristina/learnjavaclass/TestJavaProgram.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lecture6/src/lv/kristina/learnjavaclass/TestJavaProgram.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="527" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -159,8 +79,8 @@
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
 <category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings (12 items)"/>
 <category IMemento.internal.id="Warnings"/>
-<category IMemento.internal.id="Warnings (6 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="242" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -173,7 +93,9 @@
 <view id="org.eclipse.ui.console.ConsoleView" partName="Console">
 <viewState/>
 </view>
-<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
 <view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
 <viewState/>
 </view>
@@ -193,7 +115,7 @@
 <viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
 </view>
 </views>
-<perspectives activePart="org.eclipse.ui.console.ConsoleView" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -371,165 +293,166 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture 3/src/Arraysprimitive.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture4/src/ArraysRepeat.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture4/src/ArraysInitialization.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture4/src/ArraysAndLoop.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture4/src/ArraysSumForLoop.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture 3/src/BooleanTasks.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture4/src/ForEach.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/testjavavversion/src/TestVersion.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/testjavavversion/src/ForEach.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture4/src/FolLoopAndIfElseBlock.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture 3/src/IfElseIf.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/LearnMethods.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/LearnMethodsWithType.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/LearnMethodsWithParams.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/RefractorMethod.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/RefactorMethod.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/learnjavaclass/Box.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/lecture6/src/lv/kristina/learnjavaclass/TestJavaProgram.java"/>
 </editors>
-<item historyLabel="ArraysRepeat.java" index="1">
-<position info="not_deleted" x="185" y="0"/>
+<item historyLabel="BooleanTasks.java" index="0">
+<position info="not_deleted" x="260" y="0"/>
 </item>
-<item historyLabel="Arraysprimitive.java" index="0">
-<position info="not_deleted" x="1478" y="0"/>
-</item>
-<item historyLabel="ArraysRepeat.java" index="1">
-<position info="not_deleted" x="185" y="0"/>
-</item>
-<item historyLabel="ArraysRepeat.java" index="1">
-<position info="not_deleted" x="314" y="0"/>
-</item>
-<item historyLabel="ArraysRepeat.java" index="1">
-<position info="not_deleted" x="309" y="0"/>
-</item>
-<item historyLabel="ArraysInitialization.java" index="2">
-<position info="not_deleted" x="26" y="0"/>
-</item>
-<item historyLabel="ArraysInitialization.java" index="2">
-<position info="not_deleted" x="256" y="0"/>
-</item>
-<item historyLabel="ArraysInitialization.java" index="2">
-<position info="not_deleted" x="402" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="316" y="0"/>
-</item>
-<item historyLabel="ArraysInitialization.java" index="2">
-<position info="not_deleted" x="402" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="316" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="548" y="0"/>
-</item>
-<item historyLabel="ArraysRepeat.java" index="1">
-<position info="not_deleted" x="309" y="0"/>
-</item>
-<item historyLabel="ArraysInitialization.java" index="2">
-<position info="not_deleted" x="402" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="548" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="561" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="744" y="0"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="1037" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="126" y="44"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="1037" y="0"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="542" y="0"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="491" y="0"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="486" y="0"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="1042" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ArraysSumForLoop.java" index="4">
-<position info="not_deleted" x="104" y="27"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="206" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="207" y="0"/>
-</item>
-<item historyLabel="TestVersion.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="207" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="7">
-<position info="not_deleted" x="95" y="111"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="95" y="140"/>
-</item>
-<item historyLabel="TestVersion.java" index="6">
-<position info="not_deleted" x="214" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="202" y="0"/>
-</item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="237" y="79"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
-<position info="not_deleted" x="366" y="0"/>
-</item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="360" y="0"/>
-</item>
-<item historyLabel="ForEach.java" index="5">
+<item historyLabel="ForEach.java" index="1">
 <position info="not_deleted" x="95" y="5"/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="360" y="0"/>
+<item historyLabel="BooleanTasks.java" index="0">
+<position info="not_deleted" x="260" y="0"/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="360" y="0"/>
+<item historyLabel="IfElseIf.java" index="2">
+<position/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="621" y="0"/>
+<item historyLabel="BooleanTasks.java" index="0">
+<position info="not_deleted" x="260" y="0"/>
 </item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="237" y="79"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="443" y="0"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="752" y="0"/>
 </item>
-<item historyLabel="ArraysAndLoop.java" index="3">
-<position info="not_deleted" x="237" y="79"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="477" y="0"/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="443" y="0"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="618" y="0"/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="486" y="0"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="8" y="11"/>
 </item>
-<item historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="612" y="0"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="35" y="12"/>
 </item>
-<item active="true" historyLabel="FolLoopAndIfElseBlock.java" index="8">
-<position info="not_deleted" x="604" y="0"/>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="698" y="0"/>
+</item>
+<item historyLabel="LearnMethods.java" index="3">
+<position info="not_deleted" x="752" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithType.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithType.java" index="4">
+<position info="not_deleted" x="415" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithType.java" index="4">
+<position info="not_deleted" x="192" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithType.java" index="4">
+<position info="not_deleted" x="190" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithType.java" index="4">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="249" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="377" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="583" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="743" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="328" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="858" y="0"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="479" y="0"/>
+</item>
+<item historyLabel="IfElseIf.java" index="2">
+<position info="not_deleted" x="118" y="173"/>
+</item>
+<item historyLabel="LearnMethodsWithParams.java" index="5">
+<position info="not_deleted" x="479" y="0"/>
+</item>
+<item historyLabel="RefractorMethod.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="RefractorMethod.java" index="6">
+<position/>
+</item>
+<item historyLabel="RefractorMethod.java" index="6">
+<position/>
+</item>
+<item historyLabel="RefactorMethod.java" index="7">
+<position info="not_deleted" x="35" y="14"/>
+</item>
+<item historyLabel="RefactorMethod.java" index="7">
+<position info="not_deleted" x="311" y="0"/>
+</item>
+<item historyLabel="RefactorMethod.java" index="7">
+<position info="not_deleted" x="261" y="0"/>
+</item>
+<item historyLabel="RefactorMethod.java" index="7">
+<position info="not_deleted" x="681" y="0"/>
+</item>
+<item historyLabel="RefactorMethod.java" index="7">
+<position info="not_deleted" x="261" y="0"/>
+</item>
+<item historyLabel="Box.java" index="8">
+<position info="not_deleted" x="173" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="531" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position/>
+</item>
+<item historyLabel="Box.java" index="8">
+<position info="not_deleted" x="180" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="523" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="531" y="0"/>
+</item>
+<item historyLabel="Box.java" index="8">
+<position info="not_deleted" x="173" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="531" y="0"/>
+</item>
+<item historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="359" y="62"/>
+</item>
+<item historyLabel="Box.java" index="8">
+<position info="not_deleted" x="180" y="0"/>
+</item>
+<item active="true" historyLabel="TestJavaProgram.java" index="9">
+<position info="not_deleted" x="359" y="62"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -548,6 +471,33 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestJavaProgram.java" tooltip="lecture6/src/lv/kristina/learnjavaclass/TestJavaProgram.java">
+<persistable path="/lecture6/src/lv/kristina/learnjavaclass/TestJavaProgram.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Box.java" tooltip="lecture6/src/lv/kristina/learnjavaclass/Box.java">
+<persistable path="/lecture6/src/lv/kristina/learnjavaclass/Box.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RefractorMethod.java" tooltip="lecture6/src/lv/kristina/RefractorMethod.java">
+<persistable path="/lecture6/src/lv/kristina/RefractorMethod.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IfElseIf.java" tooltip="lecture 3/src/IfElseIf.java">
+<persistable path="/lecture 3/src/IfElseIf.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LearnMethodsWithParams.java" tooltip="lecture6/src/lv/kristina/LearnMethodsWithParams.java">
+<persistable path="/lecture6/src/lv/kristina/LearnMethodsWithParams.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LearnMethodsWithType.java" tooltip="lecture6/src/lv/kristina/LearnMethodsWithType.java">
+<persistable path="/lecture6/src/lv/kristina/LearnMethodsWithType.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LearnMethods.java" tooltip="lecture6/src/lv/kristina/LearnMethods.java">
+<persistable path="/lecture6/src/lv/kristina/LearnMethods.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScaneerCalculator.java" tooltip="lecture 5/src/ScaneerCalculator.java">
+<persistable path="/lecture 5/src/ScaneerCalculator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerInput.java" tooltip="lecture 5/src/ScannerInput.java">
+<persistable path="/lecture 5/src/ScannerInput.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FolLoopAndIfElseBlock.java" tooltip="lecture4/src/FolLoopAndIfElseBlock.java">
 <persistable path="/lecture4/src/FolLoopAndIfElseBlock.java"/>
 </file>
@@ -565,33 +515,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysInitialization.java" tooltip="lecture4/src/ArraysInitialization.java">
 <persistable path="/lecture4/src/ArraysInitialization.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArraysRepeat.java" tooltip="lecture4/src/ArraysRepeat.java">
-<persistable path="/lecture4/src/ArraysRepeat.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Arraysprimitive.java" tooltip="lecture 3/src/Arraysprimitive.java">
-<persistable path="/lecture 3/src/Arraysprimitive.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForLoopIfElseBlock.java" tooltip="lecture 3/src/ForLoopIfElseBlock.java">
-<persistable path="/lecture 3/src/ForLoopIfElseBlock.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DoWhileLoop.java" tooltip="lecture 3/src/DoWhileLoop.java">
-<persistable path="/lecture 3/src/DoWhileLoop.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WhileLoop.java" tooltip="lecture 3/src/WhileLoop.java">
-<persistable path="/lecture 3/src/WhileLoop.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForLoops.java" tooltip="lecture 3/src/ForLoops.java">
-<persistable path="/lecture 3/src/ForLoops.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestIfEsleAndBlocks.java" tooltip="lecture 3/src/TestIfEsleAndBlocks.java">
-<persistable path="/lecture 3/src/TestIfEsleAndBlocks.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IfElseAndTernaryOperator.java" tooltip="lecture 3/src/IfElseAndTernaryOperator.java">
-<persistable path="/lecture 3/src/IfElseAndTernaryOperator.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Calculator.java" tooltip="lecture 3/src/Calculator.java">
-<persistable path="/lecture 3/src/Calculator.java"/>
 </file>
 </mruList>
 </workbench>

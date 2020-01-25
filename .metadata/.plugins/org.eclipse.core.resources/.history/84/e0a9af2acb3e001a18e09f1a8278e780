@@ -1,0 +1,22 @@
+package lv.kristina;
+
+public class LearnMethods {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// void not return type
+		// static -nevajag veidot klasses objektu lai izsaukt metodi
+		// public, private, protected methods
+		
+		getMyName();
+	}
+
+	public static void getMyName(){
+      System.out.println("My name is Kristina");
+	
+	}
+	}
+	
+
