@@ -1,0 +1,19 @@
+package lv.kristina;
+
+import lv.kristina.player.FootballPlayer;
+
+public class TestJava {
+
+	
+	public static void main(String[] args) {
+		FootballPlayer player =  new FootballPlayer();
+        
+		
+		
+         System.out.println( player.getName());
+		
+		
+		
+	}
+
+}
