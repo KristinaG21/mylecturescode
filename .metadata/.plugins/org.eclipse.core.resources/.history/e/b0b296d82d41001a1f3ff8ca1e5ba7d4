@@ -1,0 +1,5 @@
+package lv.kristina.bookstore;
+
+public class Author {
+
+}

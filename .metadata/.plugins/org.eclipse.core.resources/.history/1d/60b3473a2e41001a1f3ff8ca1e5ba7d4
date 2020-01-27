@@ -1,0 +1,34 @@
+package lv.kristina;
+
+import lv.kristina.bookstore.Author;
+
+public class TestBookStore {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Author test1 = new Author ("name", "name@name", 'f');
+		
+		System.out.println(test1.toString());
+		
+		System.out.println("++++++++++++++++++++++++");
+		
+		
+		
+		char m = 'm';
+		char f = 'f';
+		char gender = 'j';
+		
+		
+		if(gender == m || gender == f){
+			System.out.println("It is M of F");
+		}else{
+			System.out.println("It is not M of F");
+			
+			
+		}
+	}
+
+}
