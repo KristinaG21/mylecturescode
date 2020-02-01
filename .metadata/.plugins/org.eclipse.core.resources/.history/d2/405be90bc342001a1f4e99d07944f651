@@ -1,0 +1,5 @@
+package lv.kristina.users;
+
+public class Person {
+
+}

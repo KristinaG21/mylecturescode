@@ -1,0 +1,18 @@
+package lv.kristina;
+
+import lv.kristina.interfaces.Rectangle;
+import lv.kristina.interfaces.Shape;
+
+public class TestInterface {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Shape figure = new Rectangle(5,10);
+		
+		
+		System.out.println(figure.toString());
+	}
+
+}

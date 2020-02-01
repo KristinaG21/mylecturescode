@@ -1,0 +1,5 @@
+package lv.kristina.interfaces;
+
+public class Rectangle {
+
+}
