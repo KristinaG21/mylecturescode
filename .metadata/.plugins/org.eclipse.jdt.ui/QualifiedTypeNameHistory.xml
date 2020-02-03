@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="lv.kristina.player.FootballPlayer"/>
 <fullyQualifiedTypeName name="lv.kristina.geometricfigures.Circle"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="lv.kristina.bookstore.Author"/>
 <fullyQualifiedTypeName name="java.awt.print.Book"/>
 <fullyQualifiedTypeName name="lv.kristina.bookstore.Book"/>
@@ -11,5 +10,15 @@
 <fullyQualifiedTypeName name="lv.kristina.graph.Point3D"/>
 <fullyQualifiedTypeName name="lv.kristina.graph.Point4D"/>
 <fullyQualifiedTypeName name="lv.kristina.users.Teacher"/>
+<fullyQualifiedTypeName name="lv.kristina.encapsulation.Student"/>
+<fullyQualifiedTypeName name="lv.kristina.incapsulation.Golf"/>
+<fullyQualifiedTypeName name="lv.kristina.polymorphism.Animal"/>
+<fullyQualifiedTypeName name="lv.kristina.polymorphism.Dog"/>
+<fullyQualifiedTypeName name="lv.kristina.polymorphism.Cat"/>
+<fullyQualifiedTypeName name="lv.kristina.interfaces.Shape"/>
+<fullyQualifiedTypeName name="lv.kristina.interfaces.Triangle"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

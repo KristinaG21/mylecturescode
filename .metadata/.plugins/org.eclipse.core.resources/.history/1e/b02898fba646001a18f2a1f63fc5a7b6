@@ -1,0 +1,27 @@
+package lv.kristina;
+
+import java.util.Scanner;
+
+public class TestScannerInputArray {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		 System.out.println("Enter name :");
+		    int n=sc.nextInt();
+		    String[] sarray=new String[n];
+
+			
+		
+		
+		}
+		
+		
+		
+
+	}
+
+}

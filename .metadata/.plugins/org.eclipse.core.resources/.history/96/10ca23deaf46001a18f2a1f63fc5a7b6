@@ -1,0 +1,26 @@
+package lv.kristina;
+
+import java.util.ArrayList;
+
+public class LoopThroughAnArrayList {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		ArrayList<String> array = new ArrayList<>();
+        array.add("Volvo");
+        array.add("BMW");
+        array.add("Ford");
+        array.add("Mazda");
+        System.out.println(array);
+     
+
+  for( int i=0; i<4; i++){
+	  System.out.println(array);
+  }
+  
+	
+	}
+
+
