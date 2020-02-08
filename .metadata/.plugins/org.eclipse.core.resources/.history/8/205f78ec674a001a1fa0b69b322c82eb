@@ -1,0 +1,21 @@
+package lv.kristina.inputoutput;
+
+import java.io.File;
+
+public class TestcreateAndWriteFile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args)throws Exception {
+		File fileObj = new File("newfite.txt");
+		if(fileObj.createNewFile()){
+			System.out.println("File created: " +fileObj.getName());
+		}else{
+			System.out.println("File exists. ");
+			
+		}
+
+	}
+
+}

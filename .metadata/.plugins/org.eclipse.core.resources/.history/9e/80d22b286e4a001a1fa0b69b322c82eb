@@ -1,0 +1,23 @@
+package lv.kristina.inputoutput;
+
+import java.io.File;
+import java.io.FileWriter;
+
+public class TestcreateAndWriteFile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args)throws Exception {
+		File fileObj = new File("newfite.txt");
+		FileWriter fw = new FileWriter(fileObj,true);
+		fw.write("\n Check is it work?");
+		fw.append("\n String nex line");
+		fw.close();
+		
+		
+		
+	
+	}
+
+}

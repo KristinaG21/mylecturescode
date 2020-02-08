@@ -1,0 +1,34 @@
+package lv.kristina.inputoutput;
+
+import java.io.File;
+import java.util.Scanner;
+
+public class TestChangeStringToFile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args)throws Exception {
+		
+//		String defaultStr = new String ("Hello user userName");
+//	    System.out.println(defaultStr.replaceFirst("userName", "Kristina")); 
+
+		
+       File file = new File("DefaultText.txt");
+		
+		Scanner sc = new Scanner(file);
+		String stringFromTextFile = "";
+		while(sc.hasNextLine()){
+			stringFromTextFile = sc.nextLine();
+		}
+		//System.out.println("Check:" +stringFromTextFile);
+		String defaultStr = new String ("Hello user userName");
+        System.out.println(defaultStr.replaceFirst("userName", "Kristina")); 
+
+	}
+}
+
+			
+	
+
+

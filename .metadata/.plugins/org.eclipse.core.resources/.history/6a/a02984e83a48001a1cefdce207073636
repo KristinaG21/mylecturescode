@@ -1,0 +1,16 @@
+package lv.kristina;
+
+public class TestRegex {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		String inputStr = "abc03u030_0";
+		String regexStrExp = "[0-9]+";
+		
+		System.out.println(inputStr.charAt(0));
+
+	}
+
+}

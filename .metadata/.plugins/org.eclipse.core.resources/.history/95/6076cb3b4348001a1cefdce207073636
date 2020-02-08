@@ -1,0 +1,25 @@
+package lv.kristina;
+
+public class TestExecptionHandling {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		try{
+
+			int number1 = 0;
+			int number2 = 10;
+			int result = number2 / number1;
+			
+			System.out.println(result);
+			
+		} catch(Exception e){
+			System.out.println("check code in try block");
+		}
+		
+		
+	}
+
+}

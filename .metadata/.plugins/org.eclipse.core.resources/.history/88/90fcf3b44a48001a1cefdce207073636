@@ -1,0 +1,30 @@
+package lv.kristina.test;
+
+import java.util.ArrayList;
+
+import lv.kristina.module.League;
+import lv.kristina.module.Team;
+
+public class TestTeamAndLeague {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	    
+		ArrayList<Team> arr = new ArrayList<>();
+		Team cska = new Team("CSKA");
+		Team ska = new Team("SKA");
+		arr.add(ska);
+		
+		League khl = new League("KHL");
+		khl.nameOfTeam.add(cska);
+		
+		
+		khl.setNameofTeam(arr);
+		System.out.println(khl.toString());
+		
+
+	}
+
+}

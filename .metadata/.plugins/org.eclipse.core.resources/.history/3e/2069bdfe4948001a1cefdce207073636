@@ -1,0 +1,16 @@
+package lv.kristina.test;
+
+import lv.kristina.module.League;
+
+public class TestTeamAndLeague {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		League khl = new League("KHL");
+		khl.
+
+	}
+
+}

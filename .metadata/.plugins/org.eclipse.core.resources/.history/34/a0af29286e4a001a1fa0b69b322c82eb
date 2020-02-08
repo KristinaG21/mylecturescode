@@ -1,0 +1,21 @@
+package lv.kristina.inputoutput;
+
+public class TestChangeStringToFile {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		//String defaultStr = "Hello user userName";
+		
+		String defaultStr = new String ("Hello user userName");
+		System.out.print("Original String : " ); 
+	    System.out.println(defaultStr); 
+		
+	    
+	    System.out.print("Replace String : " ); 
+	    System.out.println(defaultStr.replaceFirst("userName", "Kristina")); 
+
+	}
+
+}
